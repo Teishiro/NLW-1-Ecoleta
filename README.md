@@ -1,57 +1,65 @@
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" src=".github/ecoleta.svg" width="220px" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
 </h1>
 
+<h4 align="center"> 
+	NextLevelWeek 1.0 Done! 🚀
+</h4>
+<p align="center">	
+	
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Teishiro/NLW-1-Ecoleta">
+	
+  <a href="https://www.linkedin.com/in/matheus-teixeira-955b87204">
+    <img alt="Made by Matheus Teixeira" src="https://img.shields.io/badge/made%20by-MatheusTeixeira-%2304D361">
+  </a>
+
+  <a aria-label="Completed" href="https://nextlevelweek.com/aulas/booster/1/edicao/1">
+    <img src="https://img.shields.io/badge/NLW-done-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+  </a>
+  
+  <a href="https://github.com/Teishiro/NLW-1-Ecoleta/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Teishiro/NLW-1-Ecoleta">
+  </a>
+   <a href="https://github.com/Teishiro/NLW-1-Ecoleta/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/Teishiro/NLW-1-Ecoleta?style=social">
+  </a>
+</p>
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
+## :information_source: What's Next Level Week?
 
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
-</p>
+NLW is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level.
+Through our method you will learn new tools, learn about new technologies and discover hacks that will boost your career.
+An online and completely free event that will help you take the next step in your evolution as a dev.
 
-<br>
+## 💻 Project
 
-<p align="center">
-  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
-</p>
+Ecoleta is a project developed based on international environment week. 
+That aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
 
-## 🚀 Tecnologias
+<h1 align="center">
+    <img alt="Example" title="Example" src=".github/capa.svg" width="500px" />
+</h1>
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## :rocket: Technologies
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+This project was developed with the following technologies:
 
-## 💻 Projeto
+- [Node.js][nodejs]
+- [TypeScript][typescript]
+- [React][reactjs]
+- [React Native][rn]
+- [Expo][expo]
 
-O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
+Made with ♥ by Matheus Teixeira :wave: [Get in touch!](https://www.linkedin.com/in/matheus-teixeira-955b87204)
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-Booster?node-id=0%3A1). Lembrando que você  precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
-
-## 🤔 Como contribuir
-
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+[nodejs]: https://nodejs.org/
+[typescript]: https://www.typescriptlang.org/
+[expo]: https://expo.io/
+[reactjs]: https://reactjs.org
+[rn]: https://facebook.github.io/react-native/
+[yarn]: https://yarnpkg.com/
